@@ -20,10 +20,15 @@ It includes slicers, charts, KPIs, and a professional UI design.
 🛠 Tools Used
 
 ->Microsoft Excel
+
 ->Pivot Tables
+
 ->Pivot Charts
+
 ->Custom Slicer Styles
+
 ->Conditional Formatting
+
 ->Excel Shapes & Icons
 
 📈 Dashboard Preview
